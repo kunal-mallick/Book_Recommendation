@@ -4,9 +4,9 @@ import pandas as pd
 import streamlit as st
 
 # Adding Dataset
-user = pd.read_csv(r"C:\Users\ASUS\OneDrive\Documents\GitHub\Book_Recommendation\Data Preprocessing & EDA\User.csv")
-book = pd.read_csv(r"C:\Users\ASUS\OneDrive\Documents\GitHub\Book_Recommendation\resources\Books.csv", encoding='latin-1')
-area = pd.read_csv(r"C:\Users\ASUS\OneDrive\Documents\GitHub\Book_Recommendation\resources\Ratings.csv", encoding='latin-1')
+user = pd.read_csv('https://raw.githubusercontent.com/kunal-mallick/Book_Recommendation/main/Data%20Preprocessing%20%26%20EDA/User.csv')
+book = pd.read_csv('https://raw.githubusercontent.com/kunal-mallick/Book_Recommendation/main/resources/Books.csv', encoding='latin-1')
+area = pd.read_csv('https://raw.githubusercontent.com/kunal-mallick/Book_Recommendation/main/resources/Ratings.csv', encoding='latin-1')
 
 # Adding Pickle File
 adult = pd.read_pickle('age_adult.pkl')
