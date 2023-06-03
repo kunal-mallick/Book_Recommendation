@@ -1,0 +1,17 @@
+/* Style columns */
+[data-testid="column"] {
+    box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px, rgba(0, 0, 0, 0.579) 0px 1px 1px 0px, rgba(0, 0, 0, 0.673) 0px 1px 3px 0px;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+} 
+
+/* Style Image */
+[data-testid="stImage"]  {
+    margin: auto;
+}
+
+[data-testid="stText"]{
+    color: #933C3C;
+    font-size: 15px;
+}
