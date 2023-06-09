@@ -40,9 +40,9 @@ We are proud to introduce book.io, a book recommendation system that uses the us
 
 
 ## Screenshots
-![Top]()
-![mid]()
-![bottom]()
+![Top](https://raw.githubusercontent.com/kunal-mallick/Book_Recommendation/main/img/brave_eatKl5fcd2.png)
+![mid](https://raw.githubusercontent.com/kunal-mallick/Book_Recommendation/main/img/brave_NweahmWnCW.png)
+![bottom](https://raw.githubusercontent.com/kunal-mallick/Book_Recommendation/main/img/brave_1F7tIsrt04.png)
 
 
 ## Setup
